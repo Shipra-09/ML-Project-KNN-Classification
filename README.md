@@ -109,6 +109,13 @@ Exploring Insights/Inferences by performing EDA on the given data. Relevant grap
 **For K=20, the model shows the highest accuracy and is the best fitted model.**
 ***
 
+## Contribution
+
+Still Learning,
+
+So feel free, Anything You wanna contirubute.
+
+***
        
       
      
