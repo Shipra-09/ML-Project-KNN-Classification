@@ -57,7 +57,7 @@ Exploring Insights/Inferences by performing EDA on the given data. Relevant grap
   ***
   ## Iphone Purchase data Probelm: 
   
-  *File name: Iphone-Purchase-data-files.zip*
+  *File name: Iphone-Purchase-data-files*
   
   #### EDA Inferences:
   * The number of females and males in the dataset are 204 and 196, respectively.
