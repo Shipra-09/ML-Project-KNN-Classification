@@ -82,32 +82,6 @@ Exploring Insights/Inferences by performing EDA on the given data. Relevant grap
 **For K=20, the model shows the highest accuracy and is the best fitted model.**
 ***
 
-  ## Bangalore House price data Probelm: 
-  
-  *File name: Bangalore-house-price-data-files.zip*
-  
-  #### EDA Inferences:
-  * The number of females and males in the dataset are 204 and 196, respectively.
-  * Out of 204 females, 77 purchased Iphones.
-  * Out of 196 males, 66 purchased Iphones.
-  * The data is normally distributed in all the cases. The skewness is calculted to be **0.5 and 0.23** for salary and age, respectively.
-  * Salary and Age of the customers are correalted with the Iphone purchase.
-  * The correlation of salary and age with the Iphone purchase is **62 and 36%**, repectively.
-  * There are no outliers present in the dataset.
-
- 
-  #### KNN Model Results:
-  The accuracy of the model is came out to be:
-  
-  |K value | Accuracy score|
-  
-  |k=3 | 0.85      |
-  
-  |k=20 | 0.9      |
-  
-  
-**For K=20, the model shows the highest accuracy and is the best fitted model.**
-***
 
 ## Contribution
 
